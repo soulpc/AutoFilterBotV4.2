@@ -455,15 +455,15 @@ async def cb_handler(client: Client, query: CallbackQuery):
        )
     elif query.data == "help":
         buttons = [[
-            InlineKeyboardButton('⚡ ᴄʟɪᴄᴋ ᴛᴏ ᴄʟᴏsᴇ ᴛʜɪs ʙᴜᴛᴛᴏɴs ⚡️', callback_data='start')
+            InlineKeyboardButton("👥 𝗚𝗥𝗢𝗨𝗣 - 𝟭", url=f"https://t.me/ARAKAL_THERAVAD_MOVIES"),
+            InlineKeyboardButton("👥𝗚𝗥𝗢𝗨𝗣 - 𝟮", url=f"https://t.me/ARAKAL_THERAVAD_GROUP_02")
             ],[
-            InlineKeyboardButton('👑 ᴏᴡɴᴇʀ', callback_data='onwer'),
-            InlineKeyboardButton('👼 ᴄᴏ - ∂єν ᴺᵒᵒᵇ', callback_data='about')
+            InlineKeyboardButton("👥 𝗚𝗥𝗢𝗨𝗣 - 𝟯", url=f"https://t.me/ARAKAL_THERAVAD_GROUP_03"),
+            InlineKeyboardButton("👥𝗚𝗥𝗢𝗨𝗣 - 𝟰", url=f"https://t.me/ARAKAL_THERAVAD_GROUP_04")
             ],[
-            InlineKeyboardButton('👥 ɢʀᴏᴜᴘ', url='https://t.me/moviehub_support'),
-            InlineKeyboardButton('🎬 ᴄʜᴀɴɴᴇʟ', url='https://t.me/moviehubottupdates')
+            InlineKeyboardButton("🖥 𝗡𝗘𝗪 𝗢𝗧𝗧 𝗨𝗣𝗗𝗔𝗧𝗘𝗦 🖥", url="https://t.me/OTT_ARAKAL_THERAVAD_MOVIESS")
             ],[
-            InlineKeyboardButton('🔐 ᴄʟɪᴄᴋ ᴛᴏ ᴄʟᴏꜱᴇ ʙᴜᴛᴛᴏɴꜱ', callback_data='close_data')
+            InlineKeyboardButton("⭕️𝗚𝗘𝗧 𝗢𝗨𝗥 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 𝗟𝗜𝗡𝗞𝗦 ⭕️", url="https://t.me/ARAKAL_THERAVAD_GROUP_LINKS")
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await client.edit_message_media(
