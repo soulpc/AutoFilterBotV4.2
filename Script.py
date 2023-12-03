@@ -1,7 +1,9 @@
 class script(object):
     START_TXT = """<b>Hᴇʟʟᴏ {}</b>
     
-<b>എന്റെ പണി എന്ന് പറഞ്ഞാൽ പുതിയതായിട്ട് വരുന്ന  മൂവീസിന്റെ  ലിങ്ക് ഇടുക...!</b> <b><a href=https://t.me/ARAKAL_THERAVAD_MOVIES>ARAKAL THERAVAD MOVIES</a></b><b> GROUP OR BOT BUGE OR മൂവി ലിങ്ക് കിട്ടുന്നില്ല ANY PROMBLEM CONTACT #ADMIN @ARAKAL_THERAVAD_MOVIES_02_bot!!!</b>"""
+<b>എന്റെ പണി എന്ന് പറഞ്ഞാൽ പുതിയതായിട്ട് വരുന്ന  മൂവീസിന്റെ  ലിങ്ക് ഇടുക...!</b> <b><a href=https://t.me/ARAKAL_THERAVAD_MOVIES>ARAKAL THERAVAD MOVIES</a></b>,
+
+<b> GROUP OR BOT BUGE OR മൂവി ലിങ്ക് കിട്ടുന്നില്ല ANY PROMBLEM CONTACT #ADMIN @ARAKAL_THERAVAD_MOVIES_02_bot!!!</b>"""
     OWNER_TXT = """<b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟</b>
     
 <b>• ꜰᴜʟʟ ɴᴀᴍᴇ : ARAKAL THERAVAD MOVIES</b>
