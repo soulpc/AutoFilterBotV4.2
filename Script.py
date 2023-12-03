@@ -1,22 +1,22 @@
 class script(object):
     START_TXT = """<b>Hᴇʟʟᴏ {}</b>
     
-<b>Sᴏʀʀʏ ɪ ᴏɴʟʏ ᴡᴏʀᴋ ᴏɴ</b> <b><a href=https://t.me/moviehub_support>Mᴏᴠɪᴇʜᴜʙ</a></b><b> Gʀᴏᴜᴘ. Nᴏ ᴏᴛʜᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴡɪʟʟ ᴡᴏʀᴋ ᴏɴ ᴛʜɪs ʙᴏᴛ ᴇxᴄᴇᴘᴛ sᴛᴀʀᴛ. ᴅᴏɴ’ᴛ ᴡᴀsᴛᴇ ʏᴏᴜʀ ᴛɪᴍᴇ</b>"""
+<b>എന്റെ പണി എന്ന് പറഞ്ഞാൽ പുതിയതായിട്ട് വരുന്ന  മൂവീസിന്റെ  ലിങ്ക് ഇടുക...!</b> <b><a href=https://t.me/ARAKAL_THERAVAD_MOVIES>ARAKAL THERAVAD MOVIES</a></b><b> GROUP OR BOT BUGE OR മൂവി ലിങ്ക് കിട്ടുന്നില്ല ANY PROMBLEM CONTACT #ADMIN @ARAKAL_THERAVAD_MOVIES_02_bot!!!</b>"""
     OWNER_TXT = """<b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟</b>
     
-<b>• ꜰᴜʟʟ ɴᴀᴍᴇ : 𝐀𝐉 𝐓𝐆</b>
-<b>• Uꜱᴇʀ ɴᴀᴍᴇ : @at_xu_l07
-• Usᴇʀ ɪᴅ :</b> <code>54313116807</code>
+<b>• ꜰᴜʟʟ ɴᴀᴍᴇ : ARAKAL THERAVAD MOVIES</b>
+<b>• Uꜱᴇʀ ɴᴀᴍᴇ : @ARAKAL_THERAVAD_MOVIES_02_bot
+• Usᴇʀ ɪᴅ :</b> <code>1297128957</code>
     
 <b>∂σи'т вє αfяαι∂ σf вєιиg ∂ιffєяєит, вє αfяαι∂ σf вєιиg тнє ѕαмє αѕ єνєяуσиє єℓѕє</b>
     """
 
-    ABOUT_TXT = """<b>৫ αвσυт ∂єν ৫</b>
+    ABOUT_TXT = """<b>ARAKAL THERAVAD MOVIES</b>
 
-<b>• ηαмє : ɢᴛ ᠰ ʜᴇʀᴏ
-• υѕєя ηαмє : @GTHero
-• υѕєя ι∂ :</b> <code>5283019077</code>
-<b>• ιηѕтαgяαм :</b> <b><a href=https://instagram.com/_gthero_?igshid=NGExMmI2YTkyZg==>ℓιηк</a></b>
+<b>• ηαмє : ARAKAL THERAVAD MOVIES
+• υѕєя ηαмє : @ARAKAL_THERAVAD_MOVIES_02_bot
+• υѕєя ι∂ :</b> <code>1297128957</code>
+<b>• ιηѕтαgяαм :</b> <b><a href=https://instagram.com/anu_efx_offical?igshid=OGQ5ZDc2ODk2ZA==>ℓιηк</a></b>
   
 <b>∂σи'т вє αfяαι∂ σf вєιиg ∂ιffєяєит, вє αfяαι∂ σf вєιиg тнє ѕαмє αѕ єνєяуσиє єℓѕє</b>
     """
@@ -40,15 +40,15 @@ class script(object):
     
     PONG_TXT = """Cʜᴇᴄᴋ Mʏ Pɪɴɢ Bʏ Cʟɪᴄᴋɪɴɢ 👉 /ping"""
 
-    SOURCES_TXT = """Tʜɪs Is Aɴ Oᴩᴇɴ-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Bʏ @Tamilan_BotsZ
+    SOURCES_TXT = """Tʜɪs Is Aɴ Oᴩᴇɴ-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Bʏ @OTT_ARAKAL_THERAVAD_MOVIESS
 
-- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/SharathItsIsme>sʜᴀʀᴀᴛʜ</a>
+- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/@ARAKAL_THERAVAD_MOVIES_02_bot>ARAKAL THERAVAD MOVIES</a>
 
 - & Rᴇᴩᴏ Lɪɴᴋ 👇 Hᴇʀᴇ"""
 
-    SOURCE_TXT = """Tʜɪs Is Aɴ Oᴩᴇɴ-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Bʏ @Tamilan_BotsZ</b>
+    SOURCE_TXT = """Tʜɪs Is Aɴ Oᴩᴇɴ-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Bʏ @ARAKAL_THERAVAD_GROUP_LINKS</b>
 
-- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/SharathItsIsme>sʜᴀʀᴀᴛʜ</a></b>
+- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/ARAKAL_THERAVAD_MOVIES></a>ARAKAL THERAVAD MOVIES</b>
 
 - Rᴇᴩᴏ Lɪɴᴋ 👇 Hᴇʀᴇ"""
 
@@ -78,13 +78,13 @@ class script(object):
 
     MANUELFILTER_TXT = """<b>Hᴏᴡ Tᴏ Dᴏᴡɴʟᴏᴀᴅ Mᴏᴠɪᴇs / Sᴇʀɪᴇs Usɪɴɢ Tʜɪs Bᴏᴛ</b> 😌 🔋
 
-<b>Fɪʀsᴛ Jᴏɪɴ Tʜɪs Gʀᴏᴜᴩ » @TamilanMoviesChat</b>
+<b>Fɪʀsᴛ Jᴏɪɴ Tʜɪs Gʀᴏᴜᴩ » @ARAKAL_THERAVAD_MOVIES</b>
 
 <b>Sᴇɴᴅ Yᴏᴜ Wᴀɴᴛ Mᴏᴠɪᴇs Oʀ Sᴇʀɪᴇs Nᴀᴍᴇ Wɪᴛʜ Cᴏʀʀᴇᴄᴛ Sᴩᴇʟʟɪɴɢ</b>
 
 <b>Aɴᴅ Bᴏᴛ Wɪʟʟ Sᴇɴᴅ Yᴏᴜ Asᴋᴇᴅ Fɪʟᴇ</b>
 
-<b>Hᴏᴡ Tᴏ Oᴩᴇɴ Bᴏᴛ Sᴇɴᴅᴇᴅ Fɪʟᴇ Lɪɴᴋ. » <a href=https://t.me/Sharath_Links/13>ᴛᴜᴛᴏʀɪᴀʟ</a>.﹤/b>"""
+<b>Hᴏᴡ Tᴏ Oᴩᴇɴ Bᴏᴛ Sᴇɴᴅᴇᴅ Fɪʟᴇ Lɪɴᴋ. » <a href=@OTT_ARAKAL_THERAVAD_MOVIESS>ARAKAL THERAVAD MOVIES</a>.﹤/b>"""
 
     CONTACT_TXT = """<b>
 <b>»» ° Oɴʟʏ Cᴏɴᴛᴀᴄᴛ Fᴏʀ Pᴀɪᴅ Wᴏʀᴋs / Pʀᴏʙʟᴇᴍ / Dᴏᴜʙᴛ / Cᴏʟʟᴀʙ / Hᴇʟᴩ °</b>
